@@ -103,6 +103,25 @@ No nível Mestre, você implementará uma **integração complexa** entre a fila
 *   Cada operação deve ser segura e manter a integridade dos dados.
 *   A complexidade exige modularização clara e funções bem separadas.
 
+## ▶️ Compilação e Execução 
+
+Para compilar o código, execute o comando abaixo no terminal:
+
+```
+gcc tetris.c -o programa
+```
+E para executá-lo:
+
+```bash
+./programa
+```
+
+Ou no Windows:
+
+```bash
+programa.exe
+```
+
 ## 🏁 Conclusão
 
 Ao concluir qualquer um dos níveis, você terá exercitado conceitos fundamentais de estrutura de dados, como **fila circular** e **pilha**, em um contexto prático de desenvolvimento de jogos.
